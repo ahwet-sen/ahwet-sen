@@ -40,12 +40,14 @@
 ## Open Source Projects
 
 - [ahwet-sen](https://github.com/ahwet-sen/ahwet-sen)
+- [composer-json-file-generator](https://github.com/ahwet-sen/composer-json-file-generator)
 
 - - - - -
 
 ## Contributions
 
 - [ahwet-sen](https://github.com/ahwet-sen/ahwet-sen)
+- [composer-json-file-generator](https://github.com/ahwet-sen/composer-json-file-generator)
 
 - - - - -
 
