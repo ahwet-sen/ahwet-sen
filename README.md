@@ -43,15 +43,13 @@
 - [asset-files](https://github.com/ahwet-sen/asset-files)
 - [composer-json-file-generator](https://github.com/ahwet-sen/composer-json-file-generator)
 - [package-generator](https://github.com/ahwet-sen/package-generator)
+- [laravel-12-spatie-roles-and-permissions-with-starter-kit](https://github.com/ahwet-sen/laravel-12-spatie-roles-and-permissions-with-starter-kit)
 
 - - - - -
 
 ## Contributions
 
-- [ahwet-sen](https://github.com/ahwet-sen/ahwet-sen)
-- [asset-files](https://github.com/ahwet-sen/asset-files)
-- [composer-json-file-generator](https://github.com/ahwet-sen/composer-json-file-generator)
-- [package-generator](https://github.com/ahwet-sen/package-generator)
+- Coming Soon
 
 - - - - -
 
