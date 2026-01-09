@@ -4,13 +4,6 @@
 
 - - - - -
 
-![ahwet-sen-stat-1](https://github-readme-stats.vercel.app/api/top-langs/?username=ahwet-sen&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
-![ahwet-sen-stat-2](https://github-readme-stats.vercel.app/api?username=ahwet-sen&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![ahwet-sen-stat-3](https://github-readme-streak-stats.herokuapp.com/?user=ahwet-sen&theme=tokyonight&hide_border=true)
-
-- - - - -
-
 ## Skills
 
 - **_Frontend Development:_**
