@@ -4,6 +4,17 @@
 
 - - - - -
 
+<div align="center">
+  <a href="https://commit-history.com/ahwet-sen">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/ahwet-sen?theme=dark" />
+      <img alt="ahwet-sen's commit history" src="https://commit-history.com/embed/ahwet-sen" />
+    </picture>
+  </a>
+</div>
+
+- - - - -
+
 ## Skills
 
 - **_Frontend Development:_**
